@@ -35,8 +35,8 @@ else
 ###
 
 <a href="https://ahmedesoliman.com" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/www.png" alt="Website" width="30"></a>
-<a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img src="https://github.com/ahmedesoliman/ahmedesoliman/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.facebook.com/ahmedesoliman/" target="_blank"><img src="https://github.com/ahmedesoliman/ahmedesoliman/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img src="https://github.com/ahmedesoliman/ahmedesoliman/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://twitter.com/ahmedesolimans" target="_blank"><img src="https://github.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://github.com/ahmedesoliman" target="_blank"><img src="https://github.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.facebook.com/ahmedesoliman/" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/fb.png" alt="Facebook" width="30"></a>
+<a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://twitter.com/ahmedesolimans" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://github.com/ahmedesoliman" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
