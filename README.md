@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Ahmed
 
 <img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/header.png" alt="">   
-I'm a software engineer with a background in design. My interests span cyber security, robotics, full-stack development, human-computer interaction, intuitive design, personal computing and business. I'm excited to collaborate/share ideas with colleagues and thinkers around me!
+I'm a software engineer with a background in design. My interests span around cyber security, robotics, full-stack development, human-computer interaction, intuitive design, personal computing and business. I'm excited to collaborate/share ideas with colleagues and thinkers around me!
 
 - 🔭 I’m currently working on building a better e-commerce websites ...
 - 🌱 I’m currently learning C++ ...
