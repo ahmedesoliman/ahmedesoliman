@@ -30,15 +30,20 @@ I'm a software engineer with a background in design. My interests span around cy
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
 
-###
 
-<a href="https://ahmedesoliman.com" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/www.png" alt="Website" width="30"></a>
-<a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.facebook.com/ahmedesoliman/" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://twitter.com/ahmedesolimans" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://github.com/ahmedesoliman" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
+<br><br>
 
 [![ahmedesoliman GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedesoliman&count_private=true&show_icons=true)](https://github.com/ahmedesoliman)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedesoliman&show_icons=true&layout=compact)](https://github.com/ahmedesolimans)
+
+<br>
+
+### Find me:
+
+<a href="https://ahmedesoliman.com" target="_blank"><img align= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/www.png" alt="Website" width="30"></a>
+<a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img align= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.facebook.com/ahmedesoliman/" target="_blank"><img align= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/fb.png" alt="Facebook" width="30"></a>
+<a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img align= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://twitter.com/ahmedesolimans" target="_blank"><img align= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://github.com/ahmedesoliman" target="_blank"><img align= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
