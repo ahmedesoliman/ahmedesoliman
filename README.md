@@ -38,4 +38,6 @@ I'm a software engineer with a background in design. My interests span around cy
 <a href="https://twitter.com/ahmedesolimans" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://github.com/ahmedesoliman" target="_blank"><img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
 
-[![ahmedesoliman GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedesoliman)](https://github.com/ahmedesoliman)
+[![ahmedesoliman GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedesoliman&count_private=true&show_icons=true)](https://github.com/ahmedesoliman)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedesoliman&show_icons=true&layout=compact)](https://github.com/ahmedesolimans)
