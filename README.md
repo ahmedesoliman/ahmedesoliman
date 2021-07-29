@@ -1,16 +1,5 @@
 <!--
 **ahmedesoliman/ahmedesoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on C# Unity Game Engine + OpenCv...
-- 🌱 I’m currently learning OpenCv + C#...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ### Hi there 👋, I'm Ahmed Soliman
@@ -18,16 +7,28 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/header.png" alt="">   
 I'm a software engineer with a background in design. My interests span around cyber security, robotics, full-stack development, human-computer interaction, intuitive design, personal computing and business. I'm excited to collaborate/share ideas with colleagues and thinkers around me!
 
-- 🔭 I’m currently working on C# Unity Game Engine + OpenCv ...
-- 🌱 I’m currently learning C# & C++ ...
-- 👯 I’m looking to collaborate on React.js & Vue.js projects ...
-- 🤔 I’m looking for help with cyber security issues...
-- 💬 Ask me about any tech related question...
-- 📫 How to reach me:...
-<!-- - 😄 Pronouns: ...
+- 🔭 I’m currently working on C# Unity Game Engine + OpenCv
+- 🌱 I’m currently learning C# & C++
+- 👯 I’m looking to collaborate on React.js & Vue.js projects
+- 🤔 I’m looking for help with cyber security issues
+- 💬 Ask me about any tech related question
+- ⚡ Fun fact: I speak Egyptian
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmedesoliman">Linkedin.com/in/ahmedesoliman</a>
+<!-- - 😄 Pronouns: ... -->
 
-
-- ⚡ Fun fact: ... -->
+### Technical Skills:
+<img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="left" alt="JQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+<img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+<img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img align="left" alt="MongoDB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+<img align="left" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+<img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
 
 ###
 
