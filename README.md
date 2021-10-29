@@ -36,7 +36,7 @@ I'm a software engineer with a background in design. My interests span around cy
 
 ### Graph
 
-[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&theme=nord)
+[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&theme=nord)](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&theme=nord)
 
 </div>
 
