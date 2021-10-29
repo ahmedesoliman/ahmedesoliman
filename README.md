@@ -44,7 +44,7 @@ I'm a software engineer with a background in design. My interests span around cy
 
 <div align="center">
 
-<a href="https://ahmedesoliman.com" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/www.png" alt="Website" width="30"></a>
+<a href="https://ahmedesoliman.com" target="_blank"><img class= "center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website" width="30"></a>
 <a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 <a href="https://www.facebook.com/ahmedesoliman/" target="_blank"><img class= "center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook "> </a>
 <a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img calss= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
