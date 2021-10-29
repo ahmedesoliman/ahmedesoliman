@@ -24,11 +24,11 @@ I'm a software engineer with a background in design. My interests span around cy
 
 ### Github Stats
 
-[![ahmedesoliman GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedesoliman&count_private=true&show_icons=true)](https://github.com/ahmedesoliman)
+[![ahmedesoliman GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedesoliman&count_private=true&show_icons=true&theme=nord)](https://github.com/ahmedesoliman)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedesoliman&show_icons=true&layout=compact)](https://github.com/ahmedesolimans)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedesoliman&show_icons=true&layout=compact&&theme=nord)](https://github.com/ahmedesolimans)
 
 ### Streak
 
