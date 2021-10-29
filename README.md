@@ -58,7 +58,7 @@ I'm a software engineer with a background in design. My interests span around cy
 
 <div align="center">
     <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
-     <img src="https://img.shields.io/badge/-C#-000000?&style=flat&logo=csharp&logoColor=0277BD" />
+     <img src="https://img.shields.io/badge/-Csharp-000000?&style=flat&logo=csharp&logoColor=0277BD" />
     <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
     <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
     <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" />
