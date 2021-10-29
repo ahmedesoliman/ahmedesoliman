@@ -32,11 +32,11 @@ I'm a software engineer with a background in design. My interests span around cy
 
 ### Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesoliman&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesoliman&theme=nord)](https://git.io/streak-stats)
 
 ### Graph
 
-[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&theme=nord)
 
 </div>
 
