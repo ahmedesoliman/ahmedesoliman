@@ -18,15 +18,27 @@ I'm a software engineer with a background in design. My interests span around cy
 
 <!-- - 😄 Pronouns: ... -->
 
-<br>
+## Statistics
 
-<br><br><br>
+<div align="center">
+
+### Github Stats
 
 [![ahmedesoliman GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedesoliman&count_private=true&show_icons=true)](https://github.com/ahmedesoliman)
 
+### Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedesoliman&show_icons=true&layout=compact)](https://github.com/ahmedesolimans)
 
-<br>
+### Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesoliman&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+### Graph
+
+[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+
+</div>
 
 ## Find me:
 
@@ -39,7 +51,7 @@ I'm a software engineer with a background in design. My interests span around cy
 <a href="https://github.com/ahmedesoliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
 </div>
 
-## Technical Skills:
+## Technical Stack:
 
 <div align="center">
     <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
