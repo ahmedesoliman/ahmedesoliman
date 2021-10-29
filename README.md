@@ -2,9 +2,9 @@
 **ahmedesoliman/ahmedesoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there 👋, I'm <a href="https://ahmedesoliman.com">Ahmed Soliman</a>.
+## Hi there 👋, I'm <a href="https://ahmedesoliman.com">Ahmed Soliman</a>.
 
-<img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/header.png" alt="">   
+<img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/header.png" alt="">
 
 I'm a software engineer with a background in design. My interests span around cyber security, robotics, full-stack development, human-computer interaction, intuitive design, personal computing and business. I'm excited to collaborate/share ideas with colleagues and thinkers around me!
 
@@ -20,22 +20,6 @@ I'm a software engineer with a background in design. My interests span around cy
 
 <br>
 
-### Technical Skills:
-<div align="center">
-<img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="left" alt="JQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-<img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-<img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-<img align="left" alt="MongoDB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-<img align="left" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-<img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-<img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-<img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
-</div>
-
 <br><br><br>
 
 [![ahmedesoliman GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedesoliman&count_private=true&show_icons=true)](https://github.com/ahmedesoliman)
@@ -44,9 +28,9 @@ I'm a software engineer with a background in design. My interests span around cy
 
 <br>
 
-<div align="center">
-### Find me:
+## Find me:
 
+<div align="center">
 <a href="https://ahmedesoliman.com" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/www.png" alt="Website" width="30"></a>
 <a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://www.facebook.com/ahmedesoliman/" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/fb.png" alt="Facebook" width="30"></a>
@@ -54,7 +38,8 @@ I'm a software engineer with a background in design. My interests span around cy
 <a href="https://twitter.com/ahmede_soliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://github.com/ahmedesoliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
 </div>
-## Working Stack:
+
+## Technical Skills:
 
 <div align="center">
     <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
