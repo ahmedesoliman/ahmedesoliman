@@ -44,6 +44,7 @@ I'm a software engineer with a background in design. My interests span around cy
 
 <br>
 
+<div align="center">
 ### Find me:
 
 <a href="https://ahmedesoliman.com" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/www.png" alt="Website" width="30"></a>
@@ -52,7 +53,7 @@ I'm a software engineer with a background in design. My interests span around cy
 <a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://twitter.com/ahmede_soliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://github.com/ahmedesoliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
-
+</div>
 ## Working Stack:
 
 <div align="center">
