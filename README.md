@@ -46,25 +46,17 @@ I'm a software engineer with a background in design. My interests span around cy
 
 <a href="https://ahmedesoliman.com" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/www.png" alt="Website" width="30"></a>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-<a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/in.png" alt="LinkedIn" width="30"></a>
-
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="30"></a>
 
 <a href="https://www.facebook.com/ahmedesoliman/" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/fb.png" alt="Facebook" width="30"></a>
 
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-<a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img calss= "center" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="30"></a>
 
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+<a href="https://twitter.com/ahmede_soliman" target="_blank"><img calss= "center" src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="30"></a>
 
-<a href="https://twitter.com/ahmede_soliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://github.com/ahmedesoliman" target="_blank"><img calss= "center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="30"></a>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<a href="https://github.com/ahmedesoliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+<a href="https://stackoverflow.com/users/11025509/ahmed-e-soliman" target="_blank"><img calss= "center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="GitHub" width="30"></a>
 
 </div>
 
