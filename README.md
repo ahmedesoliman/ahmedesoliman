@@ -32,7 +32,7 @@ I'm a software engineer with a background in design. My interests span around cy
 
 ### Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesoliman&theme=nord)](https://git.io/streak-stats/graph?username=ahmedesoliman)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesoliman&theme=nord)](https://github.com/ahmedesolimans)
 
 ### Graph
 
@@ -43,12 +43,29 @@ I'm a software engineer with a background in design. My interests span around cy
 ## Find me:
 
 <div align="center">
+
 <a href="https://ahmedesoliman.com" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/www.png" alt="Website" width="30"></a>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <a href="https://www.linkedin.com/in/ahmedesoliman/" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/in.png" alt="LinkedIn" width="30"></a>
+
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
 <a href="https://www.facebook.com/ahmedesoliman/" target="_blank"><img class= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/fb.png" alt="Facebook" width="30"></a>
+
+![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <a href="https://www.instagram.com/ahmedesoliman/" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/ig.png" alt="Instagram" width="30"></a>
+
+![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
 <a href="https://twitter.com/ahmede_soliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/tw.png" alt="Twitter" width="30"></a>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <a href="https://github.com/ahmedesoliman" target="_blank"><img calss= "center" src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/git.png" alt="GitHub" width="30"></a>
+
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
 </div>
 
 ## Technical Stack:
