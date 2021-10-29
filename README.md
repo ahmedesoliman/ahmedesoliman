@@ -32,7 +32,7 @@ I'm a software engineer with a background in design. My interests span around cy
 
 ### Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesoliman&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesoliman&theme=nord)](https://git.io/streak-stats/graph?username=ahmedesoliman)
 
 ### Graph
 
