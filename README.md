@@ -3,8 +3,8 @@
 -->
 
 ## Hi there 👋, I'm <a href="https://ahmedesoliman.com">Ahmed Soliman</a>.
-
-<img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/header.png" alt="">
+<!-- 
+<img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/header.png" alt=""> -->
 
 I'm a software engineer with a background in design. My interests span around cyber security, robotics, full-stack development, human-computer interaction, intuitive design, personal computing and business. I'm excited to collaborate/share ideas with colleagues and thinkers around me!
 
