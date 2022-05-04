@@ -8,7 +8,7 @@
 
 I'm a software engineer with a background in design. My interests span around cyber security, robotics, full-stack development, human-computer interaction, intuitive design, personal computing and business. I'm excited to collaborate/share ideas with colleagues and thinkers around me!
 
-- 🔭 I’m currently working on C# Unity Game Engine + OpenCv
+- 🔭 I’m currently working on React-Native projects
 - 🌱 I’m currently learning C# & C++
 - 👯 I’m looking to collaborate on React.js & Vue.js projects
 - 🤔 I’m looking for help with cyber security issues
