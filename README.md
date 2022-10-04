@@ -10,7 +10,7 @@ I'm a software engineer with a background in design. My interests span around cy
 
 - 🔭 I’m currently working on React-Native projects
 - 🌱 I’m currently learning C# & C++
-- 👯 I’m looking to collaborate on React.js & Vue.js projects
+- 👯 I’m looking to collaborate on Java, React.js & Vue.js projects
 - 🤔 I’m looking for help with cyber security issues
 - 💬 Ask me about any tech related question
 - ⚡ Fun fact: I speak Egyptian
