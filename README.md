@@ -13,7 +13,7 @@ I'm a software engineer with a background in design. My interests span around cy
 - 👯 I’m looking to collaborate on Java, SrpingBoot, C#, C++, Python & React projects
 - 🤔 I’m looking for help with cyber security issues
 - 💬 Ask me about any tech related question
-- ⚡ Fun fact: I speak Egyptian 𓁿
+- ⚡ Fun fact: I speak Egyptian 𓂀
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmedesoliman">Linkedin.com/in/ahmedesoliman</a>
 
 <!-- - 😄 Pronouns: ... -->
