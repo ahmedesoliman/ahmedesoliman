@@ -9,11 +9,11 @@
 I'm a software engineer with a background in design. My interests span around cyber security, robotics, full-stack development, human-computer interaction, intuitive design, personal computing and business. I'm excited to collaborate/share ideas with colleagues and thinkers around me!
 
 - 🔭 I’m currently working on java projects
-- 🌱 I’m currently learning C#, C & C++
-- 👯 I’m looking to collaborate on Java, SrpingBoot, React native, React.js, Vue.js & python projects
+- 🌱 I’m currently learning algorithms
+- 👯 I’m looking to collaborate on Java, SrpingBoot, C#, C++, Python & React projects
 - 🤔 I’m looking for help with cyber security issues
 - 💬 Ask me about any tech related question
-- ⚡ Fun fact: I speak Egyptian
+- ⚡ Fun fact: I speak Egyptian U+13080
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmedesoliman">Linkedin.com/in/ahmedesoliman</a>
 
 <!-- - 😄 Pronouns: ... -->
