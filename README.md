@@ -6,15 +6,15 @@
 <!-- 
 <img src="https://raw.githubusercontent.com/ahmedesoliman/ahmedesoliman/master/header.png" alt=""> -->
 
-I'm a software engineer with a background in design. My interests span around cyber security, robotics, full-stack development, human-computer interaction, intuitive design, personal computing and business. I'm excited to collaborate/share ideas with colleagues and thinkers around me!
+I'm a Software Engineer and Architect obsessed with building scalable data platforms and intelligent systems. By day, I architect enterprise data pipelines and lead platform migrations at BNY. By night, I'm probably tinkering with AI agents, Kubernetes clusters, building media streaming apps, or dreaming about the next big data problem.
 
-- 🔭 I’m currently working on java projects
-- 🌱 I’m currently learning algorithms
-- 👯 I’m looking to collaborate on Java, SrpingBoot, C#, C++, Python & React projects
-- 🤔 I’m looking for help with cyber security issues
-- 💬 Ask me about any tech related question
-- ⚡ Fun fact: I speak Egyptian 𓂀
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmedesoliman">Linkedin.com/in/ahmedesoliman</a>
+- 🔭 Leading Storm-to-Snowflake migration & architecting Eliza Mesh (because moving petabytes of financial data should be fun, right?)
+- 🌱 Chasing a Master's in CS at ASU while shipping code to production
+- 👯 Let's collaborate on: Spark, Kubernetes, data platforms, distributed systems, or anything that processes mind-bending volumes of data
+- 🤖 Nerdy about: Apache Spark orchestration, RAG-based AI agents, multi-cluster AKS deployments, and building things that actually scale
+- 💬 Hit me up about data architecture, DevOps, CI/CD, or why your ETL pipeline is probably haunted
+- 🌍 Bilingual: English & Arabic
+- 📫 Reach out: <a href="https://www.linkedin.com/in/ahmedesoliman">LinkedIn</a> | <a href="https://ahmedesoliman.com">Portfolio</a>
 
 <!-- - 😄 Pronouns: ... -->
 
