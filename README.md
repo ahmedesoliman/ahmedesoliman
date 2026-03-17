@@ -34,10 +34,6 @@ I'm a Software Engineer and Architect obsessed with building scalable data platf
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesoliman&theme=nord)](https://github.com/ahmedesolimans)
 
-### Graph
-
-[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&theme=nord)](https://activity-graph.herokuapp.com/graph?username=ahmedesoliman&theme=nord)
-
 </div>
 
 ## Find me:
