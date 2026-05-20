@@ -8,7 +8,7 @@
 
 I'm a Software Engineer and Architect obsessed with building scalable data platforms and intelligent systems. By day, I architect enterprise data pipelines and own platform migrations at BNY. By night, I'm probably tinkering with AI agents, Kubernetes clusters, building media streaming apps, or dreaming about the next big data problem.
 
-- 🔭 Co-Leading Storm-to-Snowflake migration & architecting Eliza Mesh (because moving petabytes of financial data should be fun, right?)
+- 🔭 Co-Leading Storm-to-Spark migration & architecting Eliza Mesh (because moving petabytes of financial data should be fun, right?)
 - 🌱 Chasing a Master's in CS at ASU while shipping code to production
 - 👯 Let's collaborate on: Spark, Kubernetes, data platforms, distributed systems, or anything that processes mind-bending volumes of data
 - 🤖 Nerdy about: Apache Spark orchestration, RAG-based AI agents, multi-cluster AKS deployments, and building things that actually scale
